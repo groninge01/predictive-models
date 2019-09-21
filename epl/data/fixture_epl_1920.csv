@@ -1,0 +1,381 @@
+Date,Time,HomeTeam,AwayTeam,Location,TV,Year,round,season
+09/08/2019,08:00:00 PM,Liverpool,Norwich,Anfield,,2019,1,1920
+10/08/2019,12:30:00 PM,West Ham,Man City,London Stadium,,2019,1,1920
+10/08/2019,03:00:00 PM,Bournemouth,Sheffield United,Vitality Stadium,,2019,1,1920
+10/08/2019,03:00:00 PM,Burnley,Southampton,Turf Moor,,2019,1,1920
+10/08/2019,03:00:00 PM,Crystal Palace,Everton,Selhurst Park,,2019,1,1920
+10/08/2019,03:00:00 PM,Watford,Brighton,Vicarage Road,,2019,1,1920
+10/08/2019,05:30:00 PM,Tottenham,Aston Villa,Tottenham Hotspur Stadium,,2019,1,1920
+11/08/2019,02:00:00 PM,Leicester,Wolves,King Power Stadium,,2019,1,1920
+11/08/2019,02:00:00 PM,Newcastle,Arsenal,St. James' Park,,2019,1,1920
+11/08/2019,04:30:00 PM,Man United,Chelsea,Old Trafford,,2019,1,1920
+17/08/2019,12:30:00 PM,Arsenal,Burnley,Emirates Stadium,,2019,2,1920
+17/08/2019,03:00:00 PM,Aston Villa,Bournemouth,Villa Park,,2019,2,1920
+17/08/2019,03:00:00 PM,Brighton,West Ham,Amex Stadium,,2019,2,1920
+17/08/2019,03:00:00 PM,Everton,Watford,Goodison Park,,2019,2,1920
+17/08/2019,03:00:00 PM,Norwich,Newcastle,Carrow Road,,2019,2,1920
+17/08/2019,03:00:00 PM,Southampton,Liverpool,St. Mary's Stadium,,2019,2,1920
+17/08/2019,05:30:00 PM,Man City,Tottenham,Etihad Stadium,,2019,2,1920
+18/08/2019,02:00:00 PM,Sheffield United,Crystal Palace,Bramall Lane,,2019,2,1920
+18/08/2019,04:30:00 PM,Chelsea,Leicester,Stamford Bridge,,2019,2,1920
+19/08/2019,08:00:00 PM,Wolves,Man United,Molineux Stadium,,2019,2,1920
+23/08/2019,08:00:00 PM,Aston Villa,Everton,Villa Park,,2019,3,1920
+24/08/2019,12:30:00 PM,Norwich,Chelsea,Carrow Road,,2019,3,1920
+24/08/2019,03:00:00 PM,Brighton,Southampton,Amex Stadium,,2019,3,1920
+24/08/2019,03:00:00 PM,Man United,Crystal Palace,Old Trafford,,2019,3,1920
+24/08/2019,03:00:00 PM,Sheffield United,Leicester,Bramall Lane,,2019,3,1920
+24/08/2019,03:00:00 PM,Watford,West Ham,Vicarage Road,,2019,3,1920
+24/08/2019,05:30:00 PM,Liverpool,Arsenal,Anfield,,2019,3,1920
+25/08/2019,02:00:00 PM,Bournemouth,Man City,Vitality Stadium,,2019,3,1920
+25/08/2019,04:30:00 PM,Tottenham,Newcastle,Tottenham Hotspur Stadium,,2019,3,1920
+25/08/2019,04:30:00 PM,Wolves,Burnley,Molineux Stadium,,2019,3,1920
+31/08/2019,12:30:00 PM,Southampton,Man United,St. Mary's Stadium,,2019,4,1920
+31/08/2019,03:00:00 PM,Chelsea,Sheffield United,Stamford Bridge,,2019,4,1920
+31/08/2019,03:00:00 PM,Crystal Palace,Aston Villa,Selhurst Park,,2019,4,1920
+31/08/2019,03:00:00 PM,Leicester,Bournemouth,King Power Stadium,,2019,4,1920
+31/08/2019,03:00:00 PM,Man City,Brighton,Etihad Stadium,,2019,4,1920
+31/08/2019,03:00:00 PM,Newcastle,Watford,St. James' Park,,2019,4,1920
+31/08/2019,03:00:00 PM,West Ham,Norwich,London Stadium,,2019,4,1920
+31/08/2019,05:30:00 PM,Burnley,Liverpool,Turf Moor,,2019,4,1920
+01/09/2019,02:00:00 PM,Everton,Wolves,Goodison Park,,2019,4,1920
+01/09/2019,04:30:00 PM,Arsenal,Tottenham,Emirates Stadium,,2019,4,1920
+14/09/2019,12:30:00 PM,Liverpool,Newcastle,Anfield,,2019,5,1920
+14/09/2019,03:00:00 PM,Brighton,Burnley,Amex Stadium,,2019,5,1920
+14/09/2019,03:00:00 PM,Man United,Leicester,Old Trafford,,2019,5,1920
+14/09/2019,03:00:00 PM,Sheffield United,Southampton,Bramall Lane,,2019,5,1920
+14/09/2019,03:00:00 PM,Tottenham,Crystal Palace,Tottenham Hotspur Stadium,,2019,5,1920
+14/09/2019,03:00:00 PM,Wolves,Chelsea,Molineux Stadium,,2019,5,1920
+14/09/2019,05:30:00 PM,Norwich,Man City,Carrow Road,,2019,5,1920
+15/09/2019,02:00:00 PM,Bournemouth,Everton,Vitality Stadium,,2019,5,1920
+15/09/2019,04:30:00 PM,Watford,Arsenal,Vicarage Road,,2019,5,1920
+16/09/2019,08:00:00 PM,Aston Villa,West Ham,Villa Park,,2019,5,1920
+20/09/2019,08:00:00 PM,Southampton,Bournemouth,St. Mary's Stadium,,2019,6,1920
+21/09/2019,12:30:00 PM,Leicester,Tottenham,King Power Stadium,,2019,6,1920
+21/09/2019,03:00:00 PM,Burnley,Norwich,Turf Moor,,2019,6,1920
+21/09/2019,03:00:00 PM,Everton,Sheffield United,Goodison Park,,2019,6,1920
+21/09/2019,03:00:00 PM,Man City,Watford,Etihad Stadium,,2019,6,1920
+21/09/2019,05:30:00 PM,Newcastle,Brighton,St. James' Park,,2019,6,1920
+22/09/2019,02:00:00 PM,Crystal Palace,Wolves,Selhurst Park,,2019,6,1920
+22/09/2019,02:00:00 PM,West Ham,Man United,London Stadium,,2019,6,1920
+22/09/2019,04:30:00 PM,Arsenal,Aston Villa,Emirates Stadium,,2019,6,1920
+22/09/2019,04:30:00 PM,Chelsea,Liverpool,Stamford Bridge,,2019,6,1920
+28/09/2019,12:30:00 PM,Sheffield United,Liverpool,Bramall Lane,,2019,7,1920
+28/09/2019,03:00:00 PM,Bournemouth,West Ham,Vitality Stadium,,2019,7,1920
+28/09/2019,03:00:00 PM,Aston Villa,Burnley,Villa Park,,2019,7,1920
+28/09/2019,03:00:00 PM,Chelsea,Brighton,Stamford Bridge,,2019,7,1920
+28/09/2019,03:00:00 PM,Crystal Palace,Norwich,Selhurst Park,,2019,7,1920
+28/09/2019,03:00:00 PM,Tottenham,Southampton,Tottenham Hotspur Stadium,,2019,7,1920
+28/09/2019,03:00:00 PM,Wolves,Watford,Molineux Stadium,,2019,7,1920
+28/09/2019,05:30:00 PM,Everton,Man City,Goodison Park,,2019,7,1920
+29/09/2019,04:30:00 PM,Leicester,Newcastle,King Power Stadium,,2019,7,1920
+30/09/2019,08:00:00 PM,Man United,Arsenal,Old Trafford,,2019,7,1920
+05/10/2019,12:30:00 PM,Brighton,Tottenham,Amex Stadium,,2019,8,1920
+05/10/2019,03:00:00 PM,Burnley,Everton,Turf Moor,,2019,8,1920
+05/10/2019,03:00:00 PM,Liverpool,Leicester,Anfield,,2019,8,1920
+05/10/2019,03:00:00 PM,Norwich,Aston Villa,Carrow Road,,2019,8,1920
+05/10/2019,03:00:00 PM,Watford,Sheffield United,Vicarage Road,,2019,8,1920
+05/10/2019,05:30:00 PM,West Ham,Crystal Palace,London Stadium,,2019,8,1920
+06/10/2019,02:00:00 PM,Arsenal,Bournemouth,Emirates Stadium,,2019,8,1920
+06/10/2019,02:00:00 PM,Man City,Wolves,Etihad Stadium,,2019,8,1920
+06/10/2019,02:00:00 PM,Southampton,Chelsea,St. Mary's Stadium,,2019,8,1920
+06/10/2019,04:30:00 PM,Newcastle,Man United,St. James' Park,,2019,8,1920
+19/10/2019,12:30:00 PM,Everton,West Ham,Goodison Park,,2019,9,1920
+19/10/2019,03:00:00 PM,Bournemouth,Norwich,Vitality Stadium,,2019,9,1920
+19/10/2019,03:00:00 PM,Aston Villa,Brighton,Villa Park,,2019,9,1920
+19/10/2019,03:00:00 PM,Chelsea,Newcastle,Stamford Bridge,,2019,9,1920
+19/10/2019,03:00:00 PM,Leicester,Burnley,King Power Stadium,,2019,9,1920
+19/10/2019,03:00:00 PM,Tottenham,Watford,Tottenham Hotspur Stadium,,2019,9,1920
+19/10/2019,03:00:00 PM,Wolves,Southampton,Molineux Stadium,,2019,9,1920
+19/10/2019,05:30:00 PM,Crystal Palace,Man City,Selhurst Park,,2019,9,1920
+20/10/2019,04:30:00 PM,Man United,Liverpool,Old Trafford,,2019,9,1920
+21/10/2019,08:00:00 PM,Sheffield United,Arsenal,Bramall Lane,,2019,9,1920
+25/10/2019,08:00:00 PM,Southampton,Leicester,St. Mary's Stadium,,2019,10,1920
+26/10/2019,12:30:00 PM,Man City,Aston Villa,Etihad Stadium,,2019,10,1920
+26/10/2019,03:00:00 PM,Brighton,Everton,Amex Stadium,,2019,10,1920
+26/10/2019,03:00:00 PM,Watford,Bournemouth,Vicarage Road,,2019,10,1920
+26/10/2019,03:00:00 PM,West Ham,Sheffield United,London Stadium,,2019,10,1920
+26/10/2019,05:30:00 PM,Burnley,Chelsea,Turf Moor,,2019,10,1920
+27/10/2019,02:00:00 PM,Newcastle,Wolves,St. James' Park,,2019,10,1920
+27/10/2019,04:30:00 PM,Arsenal,Crystal Palace,Emirates Stadium,,2019,10,1920
+27/10/2019,04:30:00 PM,Liverpool,Tottenham,Anfield,,2019,10,1920
+27/10/2019,04:30:00 PM,Norwich,Man United,Carrow Road,,2019,10,1920
+02/11/2019,03:00:00 PM,Bournemouth,Man United,Vitality Stadium,,2019,11,1920
+02/11/2019,03:00:00 PM,Arsenal,Wolves,Emirates Stadium,,2019,11,1920
+02/11/2019,03:00:00 PM,Aston Villa,Liverpool,Villa Park,,2019,11,1920
+02/11/2019,03:00:00 PM,Brighton,Norwich,Amex Stadium,,2019,11,1920
+02/11/2019,03:00:00 PM,Crystal Palace,Leicester,Selhurst Park,,2019,11,1920
+02/11/2019,03:00:00 PM,Everton,Tottenham,Goodison Park,,2019,11,1920
+02/11/2019,03:00:00 PM,Man City,Southampton,Etihad Stadium,,2019,11,1920
+02/11/2019,03:00:00 PM,Sheffield United,Burnley,Bramall Lane,,2019,11,1920
+02/11/2019,03:00:00 PM,Watford,Chelsea,Vicarage Road,,2019,11,1920
+02/11/2019,03:00:00 PM,West Ham,Newcastle,London Stadium,,2019,11,1920
+09/11/2019,03:00:00 PM,Burnley,West Ham,Turf Moor,,2019,12,1920
+09/11/2019,03:00:00 PM,Chelsea,Crystal Palace,Stamford Bridge,,2019,12,1920
+09/11/2019,03:00:00 PM,Leicester,Arsenal,King Power Stadium,,2019,12,1920
+09/11/2019,03:00:00 PM,Liverpool,Man City,Anfield,,2019,12,1920
+09/11/2019,03:00:00 PM,Man United,Brighton,Old Trafford,,2019,12,1920
+09/11/2019,03:00:00 PM,Newcastle,Bournemouth,St. James' Park,,2019,12,1920
+09/11/2019,03:00:00 PM,Norwich,Watford,Carrow Road,,2019,12,1920
+09/11/2019,03:00:00 PM,Southampton,Everton,St. Mary's Stadium,,2019,12,1920
+09/11/2019,03:00:00 PM,Tottenham,Sheffield United,Tottenham Hotspur Stadium,,2019,12,1920
+09/11/2019,03:00:00 PM,Wolves,Aston Villa,Molineux Stadium,,2019,12,1920
+23/11/2019,03:00:00 PM,Bournemouth,Wolves,Vitality Stadium,,2019,13,1920
+23/11/2019,03:00:00 PM,Arsenal,Southampton,Emirates Stadium,,2019,13,1920
+23/11/2019,03:00:00 PM,Aston Villa,Newcastle,Villa Park,,2019,13,1920
+23/11/2019,03:00:00 PM,Brighton,Leicester,Amex Stadium,,2019,13,1920
+23/11/2019,03:00:00 PM,Crystal Palace,Liverpool,Selhurst Park,,2019,13,1920
+23/11/2019,03:00:00 PM,Everton,Norwich,Goodison Park,,2019,13,1920
+23/11/2019,03:00:00 PM,Man City,Chelsea,Etihad Stadium,,2019,13,1920
+23/11/2019,03:00:00 PM,Sheffield United,Man United,Bramall Lane,,2019,13,1920
+23/11/2019,03:00:00 PM,Watford,Burnley,Vicarage Road,,2019,13,1920
+23/11/2019,03:00:00 PM,West Ham,Tottenham,London Stadium,,2019,13,1920
+30/11/2019,03:00:00 PM,Burnley,Crystal Palace,Turf Moor,,2019,14,1920
+30/11/2019,03:00:00 PM,Chelsea,West Ham,Stamford Bridge,,2019,14,1920
+30/11/2019,03:00:00 PM,Leicester,Everton,King Power Stadium,,2019,14,1920
+30/11/2019,03:00:00 PM,Liverpool,Brighton,Anfield,,2019,14,1920
+30/11/2019,03:00:00 PM,Man United,Aston Villa,Old Trafford,,2019,14,1920
+30/11/2019,03:00:00 PM,Newcastle,Man City,St. James' Park,,2019,14,1920
+30/11/2019,03:00:00 PM,Norwich,Arsenal,Carrow Road,,2019,14,1920
+30/11/2019,03:00:00 PM,Southampton,Watford,St. Mary's Stadium,,2019,14,1920
+30/11/2019,03:00:00 PM,Tottenham,Bournemouth,Tottenham Hotspur Stadium,,2019,14,1920
+30/11/2019,03:00:00 PM,Wolves,Sheffield United,Molineux Stadium,,2019,14,1920
+03/12/2019,07:45:00 PM,Arsenal,Brighton,Emirates Stadium,,2019,15,1920
+03/12/2019,07:45:00 PM,Burnley,Man City,Turf Moor,,2019,15,1920
+03/12/2019,07:45:00 PM,Leicester,Watford,King Power Stadium,,2019,15,1920
+03/12/2019,07:45:00 PM,Sheffield United,Newcastle,Bramall Lane,,2019,15,1920
+03/12/2019,07:45:00 PM,Wolves,West Ham,Molineux Stadium,,2019,15,1920
+03/12/2019,08:00:00 PM,Man United,Tottenham,Old Trafford,,2019,15,1920
+04/12/2019,07:45:00 PM,Chelsea,Aston Villa,Stamford Bridge,,2019,15,1920
+04/12/2019,07:45:00 PM,Southampton,Norwich,St. Mary's Stadium,,2019,15,1920
+04/12/2019,08:00:00 PM,Crystal Palace,Bournemouth,Selhurst Park,,2019,15,1920
+04/12/2019,08:00:00 PM,Liverpool,Everton,Anfield,,2019,15,1920
+07/12/2019,03:00:00 PM,Bournemouth,Liverpool,Vitality Stadium,,2019,16,1920
+07/12/2019,03:00:00 PM,Aston Villa,Leicester,Villa Park,,2019,16,1920
+07/12/2019,03:00:00 PM,Brighton,Wolves,Amex Stadium,,2019,16,1920
+07/12/2019,03:00:00 PM,Everton,Chelsea,Goodison Park,,2019,16,1920
+07/12/2019,03:00:00 PM,Man City,Man United,Etihad Stadium,,2019,16,1920
+07/12/2019,03:00:00 PM,Newcastle,Southampton,St. James' Park,,2019,16,1920
+07/12/2019,03:00:00 PM,Norwich,Sheffield United,Carrow Road,,2019,16,1920
+07/12/2019,03:00:00 PM,Tottenham,Burnley,Tottenham Hotspur Stadium,,2019,16,1920
+07/12/2019,03:00:00 PM,Watford,Crystal Palace,Vicarage Road,,2019,16,1920
+07/12/2019,03:00:00 PM,West Ham,Arsenal,London Stadium,,2019,16,1920
+14/12/2019,03:00:00 PM,Arsenal,Man City,Emirates Stadium,,2019,17,1920
+14/12/2019,03:00:00 PM,Burnley,Newcastle,Turf Moor,,2019,17,1920
+14/12/2019,03:00:00 PM,Chelsea,Bournemouth,Stamford Bridge,,2019,17,1920
+14/12/2019,03:00:00 PM,Crystal Palace,Brighton,Selhurst Park,,2019,17,1920
+14/12/2019,03:00:00 PM,Leicester,Norwich,King Power Stadium,,2019,17,1920
+14/12/2019,03:00:00 PM,Liverpool,Watford,Anfield,,2019,17,1920
+14/12/2019,03:00:00 PM,Man United,Everton,Old Trafford,,2019,17,1920
+14/12/2019,03:00:00 PM,Sheffield United,Aston Villa,Bramall Lane,,2019,17,1920
+14/12/2019,03:00:00 PM,Southampton,West Ham,St. Mary's Stadium,,2019,17,1920
+14/12/2019,03:00:00 PM,Wolves,Tottenham,Molineux Stadium,,2019,17,1920
+21/12/2019,03:00:00 PM,Bournemouth,Burnley,Vitality Stadium,,2019,18,1920
+21/12/2019,03:00:00 PM,Aston Villa,Southampton,Villa Park,,2019,18,1920
+21/12/2019,03:00:00 PM,Brighton,Sheffield United,Amex Stadium,,2019,18,1920
+21/12/2019,03:00:00 PM,Everton,Arsenal,Goodison Park,,2019,18,1920
+21/12/2019,03:00:00 PM,Man City,Leicester,Etihad Stadium,,2019,18,1920
+21/12/2019,03:00:00 PM,Newcastle,Crystal Palace,St. James' Park,,2019,18,1920
+21/12/2019,03:00:00 PM,Norwich,Wolves,Carrow Road,,2019,18,1920
+21/12/2019,03:00:00 PM,Tottenham,Chelsea,Tottenham Hotspur Stadium,,2019,18,1920
+21/12/2019,03:00:00 PM,Watford,Man United,Vicarage Road,,2019,18,1920
+21/12/2019,03:00:00 PM,West Ham,Liverpool,London Stadium,,2019,18,1920
+26/12/2019,03:00:00 PM,Bournemouth,Arsenal,Vitality Stadium,,2019,19,1920
+26/12/2019,03:00:00 PM,Aston Villa,Norwich,Villa Park,,2019,19,1920
+26/12/2019,03:00:00 PM,Chelsea,Southampton,Stamford Bridge,,2019,19,1920
+26/12/2019,03:00:00 PM,Crystal Palace,West Ham,Selhurst Park,,2019,19,1920
+26/12/2019,03:00:00 PM,Everton,Burnley,Goodison Park,,2019,19,1920
+26/12/2019,03:00:00 PM,Leicester,Liverpool,King Power Stadium,,2019,19,1920
+26/12/2019,03:00:00 PM,Man United,Newcastle,Old Trafford,,2019,19,1920
+26/12/2019,03:00:00 PM,Sheffield United,Watford,Bramall Lane,,2019,19,1920
+26/12/2019,03:00:00 PM,Tottenham,Brighton,Tottenham Hotspur Stadium,,2019,19,1920
+26/12/2019,03:00:00 PM,Wolves,Man City,Molineux Stadium,,2019,19,1920
+28/12/2019,03:00:00 PM,Arsenal,Chelsea,Emirates Stadium,,2019,20,1920
+28/12/2019,03:00:00 PM,Brighton,Bournemouth,Amex Stadium,,2019,20,1920
+28/12/2019,03:00:00 PM,Burnley,Man United,Turf Moor,,2019,20,1920
+28/12/2019,03:00:00 PM,Liverpool,Wolves,Anfield,,2019,20,1920
+28/12/2019,03:00:00 PM,Man City,Sheffield United,Etihad Stadium,,2019,20,1920
+28/12/2019,03:00:00 PM,Newcastle,Everton,St. James' Park,,2019,20,1920
+28/12/2019,03:00:00 PM,Norwich,Tottenham,Carrow Road,,2019,20,1920
+28/12/2019,03:00:00 PM,Southampton,Crystal Palace,St. Mary's Stadium,,2019,20,1920
+28/12/2019,03:00:00 PM,Watford,Aston Villa,Vicarage Road,,2019,20,1920
+28/12/2019,03:00:00 PM,West Ham,Leicester,London Stadium,,2019,20,1920
+01/01/2020,03:00:00 PM,Arsenal,Man United,Emirates Stadium,,2020,21,1920
+01/01/2020,03:00:00 PM,Brighton,Chelsea,Amex Stadium,,2020,21,1920
+01/01/2020,03:00:00 PM,Burnley,Aston Villa,Turf Moor,,2020,21,1920
+01/01/2020,03:00:00 PM,Liverpool,Sheffield United,Anfield,,2020,21,1920
+01/01/2020,03:00:00 PM,Man City,Everton,Etihad Stadium,,2020,21,1920
+01/01/2020,03:00:00 PM,Newcastle,Leicester,St. James' Park,,2020,21,1920
+01/01/2020,03:00:00 PM,Norwich,Crystal Palace,Carrow Road,,2020,21,1920
+01/01/2020,03:00:00 PM,Southampton,Tottenham,St. Mary's Stadium,,2020,21,1920
+01/01/2020,03:00:00 PM,Watford,Wolves,Vicarage Road,,2020,21,1920
+01/01/2020,03:00:00 PM,West Ham,Bournemouth,London Stadium,,2020,21,1920
+11/01/2020,03:00:00 PM,Bournemouth,Watford,Vitality Stadium,,2020,22,1920
+11/01/2020,03:00:00 PM,Aston Villa,Man City,Villa Park,,2020,22,1920
+11/01/2020,03:00:00 PM,Chelsea,Burnley,Stamford Bridge,,2020,22,1920
+11/01/2020,03:00:00 PM,Crystal Palace,Arsenal,Selhurst Park,,2020,22,1920
+11/01/2020,03:00:00 PM,Everton,Brighton,Goodison Park,,2020,22,1920
+11/01/2020,03:00:00 PM,Leicester,Southampton,King Power Stadium,,2020,22,1920
+11/01/2020,03:00:00 PM,Man United,Norwich,Old Trafford,,2020,22,1920
+11/01/2020,03:00:00 PM,Sheffield United,West Ham,Bramall Lane,,2020,22,1920
+11/01/2020,03:00:00 PM,Tottenham,Liverpool,Tottenham Hotspur Stadium,,2020,22,1920
+11/01/2020,03:00:00 PM,Wolves,Newcastle,Molineux Stadium,,2020,22,1920
+18/01/2020,03:00:00 PM,Arsenal,Sheffield United,Emirates Stadium,,2020,23,1920
+18/01/2020,03:00:00 PM,Brighton,Aston Villa,Amex Stadium,,2020,23,1920
+18/01/2020,03:00:00 PM,Burnley,Leicester,Turf Moor,,2020,23,1920
+18/01/2020,03:00:00 PM,Liverpool,Man United,Anfield,,2020,23,1920
+18/01/2020,03:00:00 PM,Man City,Crystal Palace,Etihad Stadium,,2020,23,1920
+18/01/2020,03:00:00 PM,Newcastle,Chelsea,St. James' Park,,2020,23,1920
+18/01/2020,03:00:00 PM,Norwich,Bournemouth,Carrow Road,,2020,23,1920
+18/01/2020,03:00:00 PM,Southampton,Wolves,St. Mary's Stadium,,2020,23,1920
+18/01/2020,03:00:00 PM,Watford,Tottenham,Vicarage Road,,2020,23,1920
+18/01/2020,03:00:00 PM,West Ham,Everton,London Stadium,,2020,23,1920
+21/01/2020,07:45:00 PM,Bournemouth,Brighton,Vitality Stadium,,2020,24,1920
+21/01/2020,07:45:00 PM,Aston Villa,Watford,Villa Park,,2020,24,1920
+21/01/2020,07:45:00 PM,Everton,Newcastle,Goodison Park,,2020,24,1920
+21/01/2020,07:45:00 PM,Leicester,West Ham,King Power Stadium,,2020,24,1920
+21/01/2020,07:45:00 PM,Sheffield United,Man City,Bramall Lane,,2020,24,1920
+21/01/2020,07:45:00 PM,Wolves,Liverpool,Molineux Stadium,,2020,24,1920
+21/01/2020,08:00:00 PM,Man United,Burnley,Old Trafford,,2020,24,1920
+22/01/2020,07:45:00 PM,Chelsea,Arsenal,Stamford Bridge,,2020,24,1920
+22/01/2020,07:45:00 PM,Tottenham,Norwich,Tottenham Hotspur Stadium,,2020,24,1920
+22/01/2020,08:00:00 PM,Crystal Palace,Southampton,Selhurst Park,,2020,24,1920
+01/02/2020,03:00:00 PM,Bournemouth,Aston Villa,Vitality Stadium,,2020,25,1920
+01/02/2020,03:00:00 PM,Burnley,Arsenal,Turf Moor,,2020,25,1920
+01/02/2020,03:00:00 PM,Crystal Palace,Sheffield United,Selhurst Park,,2020,25,1920
+01/02/2020,03:00:00 PM,Leicester,Chelsea,King Power Stadium,,2020,25,1920
+01/02/2020,03:00:00 PM,Liverpool,Southampton,Anfield,,2020,25,1920
+01/02/2020,03:00:00 PM,Man United,Wolves,Old Trafford,,2020,25,1920
+01/02/2020,03:00:00 PM,Newcastle,Norwich,St. James' Park,,2020,25,1920
+01/02/2020,03:00:00 PM,Tottenham,Man City,Tottenham Hotspur Stadium,,2020,25,1920
+01/02/2020,03:00:00 PM,Watford,Everton,Vicarage Road,,2020,25,1920
+01/02/2020,03:00:00 PM,West Ham,Brighton,London Stadium,,2020,25,1920
+08/02/2020,03:00:00 PM,Arsenal,Newcastle,Emirates Stadium,,2020,26,1920
+08/02/2020,03:00:00 PM,Aston Villa,Tottenham,Villa Park,,2020,26,1920
+08/02/2020,03:00:00 PM,Brighton,Watford,Amex Stadium,,2020,26,1920
+08/02/2020,03:00:00 PM,Chelsea,Man United,Stamford Bridge,,2020,26,1920
+08/02/2020,03:00:00 PM,Everton,Crystal Palace,Goodison Park,,2020,26,1920
+08/02/2020,03:00:00 PM,Man City,West Ham,Etihad Stadium,,2020,26,1920
+08/02/2020,03:00:00 PM,Norwich,Liverpool,Carrow Road,,2020,26,1920
+08/02/2020,03:00:00 PM,Sheffield United,Bournemouth,Bramall Lane,,2020,26,1920
+08/02/2020,03:00:00 PM,Southampton,Burnley,St. Mary's Stadium,,2020,26,1920
+08/02/2020,03:00:00 PM,Wolves,Leicester,Molineux Stadium,,2020,26,1920
+22/02/2020,03:00:00 PM,Arsenal,Everton,Emirates Stadium,,2020,27,1920
+22/02/2020,03:00:00 PM,Burnley,Bournemouth,Turf Moor,,2020,27,1920
+22/02/2020,03:00:00 PM,Chelsea,Tottenham,Stamford Bridge,,2020,27,1920
+22/02/2020,03:00:00 PM,Crystal Palace,Newcastle,Selhurst Park,,2020,27,1920
+22/02/2020,03:00:00 PM,Leicester,Man City,King Power Stadium,,2020,27,1920
+22/02/2020,03:00:00 PM,Liverpool,West Ham,Anfield,,2020,27,1920
+22/02/2020,03:00:00 PM,Man United,Watford,Old Trafford,,2020,27,1920
+22/02/2020,03:00:00 PM,Sheffield United,Brighton,Bramall Lane,,2020,27,1920
+22/02/2020,03:00:00 PM,Southampton,Aston Villa,St. Mary's Stadium,,2020,27,1920
+22/02/2020,03:00:00 PM,Wolves,Norwich,Molineux Stadium,,2020,27,1920
+29/02/2020,03:00:00 PM,Bournemouth,Chelsea,Vitality Stadium,,2020,28,1920
+29/02/2020,03:00:00 PM,Aston Villa,Sheffield United,Villa Park,,2020,28,1920
+29/02/2020,03:00:00 PM,Brighton,Crystal Palace,Amex Stadium,,2020,28,1920
+29/02/2020,03:00:00 PM,Everton,Man United,Goodison Park,,2020,28,1920
+29/02/2020,03:00:00 PM,Man City,Arsenal,Etihad Stadium,,2020,28,1920
+29/02/2020,03:00:00 PM,Newcastle,Burnley,St. James' Park,,2020,28,1920
+29/02/2020,03:00:00 PM,Norwich,Leicester,Carrow Road,,2020,28,1920
+29/02/2020,03:00:00 PM,Tottenham,Wolves,Tottenham Hotspur Stadium,,2020,28,1920
+29/02/2020,03:00:00 PM,Watford,Liverpool,Vicarage Road,,2020,28,1920
+29/02/2020,03:00:00 PM,West Ham,Southampton,London Stadium,,2020,28,1920
+07/03/2020,03:00:00 PM,Arsenal,West Ham,Emirates Stadium,,2020,29,1920
+07/03/2020,03:00:00 PM,Burnley,Tottenham,Turf Moor,,2020,29,1920
+07/03/2020,03:00:00 PM,Chelsea,Everton,Stamford Bridge,,2020,29,1920
+07/03/2020,03:00:00 PM,Crystal Palace,Watford,Selhurst Park,,2020,29,1920
+07/03/2020,03:00:00 PM,Leicester,Aston Villa,King Power Stadium,,2020,29,1920
+07/03/2020,03:00:00 PM,Liverpool,Bournemouth,Anfield,,2020,29,1920
+07/03/2020,03:00:00 PM,Man United,Man City,Old Trafford,,2020,29,1920
+07/03/2020,03:00:00 PM,Sheffield United,Norwich,Bramall Lane,,2020,29,1920
+07/03/2020,03:00:00 PM,Southampton,Newcastle,St. Mary's Stadium,,2020,29,1920
+07/03/2020,03:00:00 PM,Wolves,Brighton,Molineux Stadium,,2020,29,1920
+14/03/2020,03:00:00 PM,Bournemouth,Crystal Palace,Vitality Stadium,,2020,30,1920
+14/03/2020,03:00:00 PM,Aston Villa,Chelsea,Villa Park,,2020,30,1920
+14/03/2020,03:00:00 PM,Brighton,Arsenal,Amex Stadium,,2020,30,1920
+14/03/2020,03:00:00 PM,Everton,Liverpool,Goodison Park,,2020,30,1920
+14/03/2020,03:00:00 PM,Man City,Burnley,Etihad Stadium,,2020,30,1920
+14/03/2020,03:00:00 PM,Newcastle,Sheffield United,St. James' Park,,2020,30,1920
+14/03/2020,03:00:00 PM,Norwich,Southampton,Carrow Road,,2020,30,1920
+14/03/2020,03:00:00 PM,Tottenham,Man United,Tottenham Hotspur Stadium,,2020,30,1920
+14/03/2020,03:00:00 PM,Watford,Leicester,Vicarage Road,,2020,30,1920
+14/03/2020,03:00:00 PM,West Ham,Wolves,London Stadium,,2020,30,1920
+21/03/2020,03:00:00 PM,Burnley,Watford,Turf Moor,,2020,31,1920
+21/03/2020,03:00:00 PM,Chelsea,Man City,Stamford Bridge,,2020,31,1920
+21/03/2020,03:00:00 PM,Leicester,Brighton,King Power Stadium,,2020,31,1920
+21/03/2020,03:00:00 PM,Liverpool,Crystal Palace,Anfield,,2020,31,1920
+21/03/2020,03:00:00 PM,Man United,Sheffield United,Old Trafford,,2020,31,1920
+21/03/2020,03:00:00 PM,Newcastle,Aston Villa,St. James' Park,,2020,31,1920
+21/03/2020,03:00:00 PM,Norwich,Everton,Carrow Road,,2020,31,1920
+21/03/2020,03:00:00 PM,Southampton,Arsenal,St. Mary's Stadium,,2020,31,1920
+21/03/2020,03:00:00 PM,Tottenham,West Ham,Tottenham Hotspur Stadium,,2020,31,1920
+21/03/2020,03:00:00 PM,Wolves,Bournemouth,Molineux Stadium,,2020,31,1920
+04/04/2020,03:00:00 PM,Bournemouth,Newcastle,Vitality Stadium,,2020,32,1920
+04/04/2020,03:00:00 PM,Arsenal,Norwich,Emirates Stadium,,2020,32,1920
+04/04/2020,03:00:00 PM,Aston Villa,Wolves,Villa Park,,2020,32,1920
+04/04/2020,03:00:00 PM,Brighton,Man United,Amex Stadium,,2020,32,1920
+04/04/2020,03:00:00 PM,Crystal Palace,Burnley,Selhurst Park,,2020,32,1920
+04/04/2020,03:00:00 PM,Everton,Leicester,Goodison Park,,2020,32,1920
+04/04/2020,03:00:00 PM,Man City,Liverpool,Etihad Stadium,,2020,32,1920
+04/04/2020,03:00:00 PM,Sheffield United,Tottenham,Bramall Lane,,2020,32,1920
+04/04/2020,03:00:00 PM,Watford,Southampton,Vicarage Road,,2020,32,1920
+04/04/2020,03:00:00 PM,West Ham,Chelsea,London Stadium,,2020,32,1920
+11/04/2020,03:00:00 PM,Burnley,Sheffield United,Turf Moor,,2020,33,1920
+11/04/2020,03:00:00 PM,Chelsea,Watford,Stamford Bridge,,2020,33,1920
+11/04/2020,03:00:00 PM,Leicester,Crystal Palace,King Power Stadium,,2020,33,1920
+11/04/2020,03:00:00 PM,Liverpool,Aston Villa,Anfield,,2020,33,1920
+11/04/2020,03:00:00 PM,Man United,Bournemouth,Old Trafford,,2020,33,1920
+11/04/2020,03:00:00 PM,Newcastle,West Ham,St. James' Park,,2020,33,1920
+11/04/2020,03:00:00 PM,Norwich,Brighton,Carrow Road,,2020,33,1920
+11/04/2020,03:00:00 PM,Southampton,Man City,St. Mary's Stadium,,2020,33,1920
+11/04/2020,03:00:00 PM,Tottenham,Everton,Tottenham Hotspur Stadium,,2020,33,1920
+11/04/2020,03:00:00 PM,Wolves,Arsenal,Molineux Stadium,,2020,33,1920
+18/04/2020,03:00:00 PM,Bournemouth,Tottenham,Vitality Stadium,,2020,34,1920
+18/04/2020,03:00:00 PM,Arsenal,Leicester,Emirates Stadium,,2020,34,1920
+18/04/2020,03:00:00 PM,Aston Villa,Man United,Villa Park,,2020,34,1920
+18/04/2020,03:00:00 PM,Brighton,Liverpool,Amex Stadium,,2020,34,1920
+18/04/2020,03:00:00 PM,Crystal Palace,Chelsea,Selhurst Park,,2020,34,1920
+18/04/2020,03:00:00 PM,Everton,Southampton,Goodison Park,,2020,34,1920
+18/04/2020,03:00:00 PM,Man City,Newcastle,Etihad Stadium,,2020,34,1920
+18/04/2020,03:00:00 PM,Sheffield United,Wolves,Bramall Lane,,2020,34,1920
+18/04/2020,03:00:00 PM,Watford,Norwich,Vicarage Road,,2020,34,1920
+18/04/2020,03:00:00 PM,West Ham,Burnley,London Stadium,,2020,34,1920
+25/04/2020,03:00:00 PM,Bournemouth,Leicester,Vitality Stadium,,2020,35,1920
+25/04/2020,03:00:00 PM,Aston Villa,Crystal Palace,Villa Park,,2020,35,1920
+25/04/2020,03:00:00 PM,Brighton,Man City,Amex Stadium,,2020,35,1920
+25/04/2020,03:00:00 PM,Liverpool,Burnley,Anfield,,2020,35,1920
+25/04/2020,03:00:00 PM,Man United,Southampton,Old Trafford,,2020,35,1920
+25/04/2020,03:00:00 PM,Norwich,West Ham,Carrow Road,,2020,35,1920
+25/04/2020,03:00:00 PM,Sheffield United,Chelsea,Bramall Lane,,2020,35,1920
+25/04/2020,03:00:00 PM,Tottenham,Arsenal,Tottenham Hotspur Stadium,,2020,35,1920
+25/04/2020,03:00:00 PM,Watford,Newcastle,Vicarage Road,,2020,35,1920
+25/04/2020,03:00:00 PM,Wolves,Everton,Molineux Stadium,,2020,35,1920
+02/05/2020,03:00:00 PM,Arsenal,Liverpool,Emirates Stadium,,2020,36,1920
+02/05/2020,03:00:00 PM,Burnley,Wolves,Turf Moor,,2020,36,1920
+02/05/2020,03:00:00 PM,Chelsea,Norwich,Stamford Bridge,,2020,36,1920
+02/05/2020,03:00:00 PM,Crystal Palace,Man United,Selhurst Park,,2020,36,1920
+02/05/2020,03:00:00 PM,Everton,Aston Villa,Goodison Park,,2020,36,1920
+02/05/2020,03:00:00 PM,Leicester,Sheffield United,King Power Stadium,,2020,36,1920
+02/05/2020,03:00:00 PM,Man City,Bournemouth,Etihad Stadium,,2020,36,1920
+02/05/2020,03:00:00 PM,Newcastle,Tottenham,St. James' Park,,2020,36,1920
+02/05/2020,03:00:00 PM,Southampton,Brighton,St. Mary's Stadium,,2020,36,1920
+02/05/2020,03:00:00 PM,West Ham,Watford,London Stadium,,2020,36,1920
+09/05/2020,03:00:00 PM,Bournemouth,Southampton,Vitality Stadium,,2020,37,1920
+09/05/2020,03:00:00 PM,Aston Villa,Arsenal,Villa Park,,2020,37,1920
+09/05/2020,03:00:00 PM,Brighton,Newcastle,Amex Stadium,,2020,37,1920
+09/05/2020,03:00:00 PM,Liverpool,Chelsea,Anfield,,2020,37,1920
+09/05/2020,03:00:00 PM,Man United,West Ham,Old Trafford,,2020,37,1920
+09/05/2020,03:00:00 PM,Norwich,Burnley,Carrow Road,,2020,37,1920
+09/05/2020,03:00:00 PM,Sheffield United,Everton,Bramall Lane,,2020,37,1920
+09/05/2020,03:00:00 PM,Tottenham,Leicester,Tottenham Hotspur Stadium,,2020,37,1920
+09/05/2020,03:00:00 PM,Watford,Man City,Vicarage Road,,2020,37,1920
+09/05/2020,03:00:00 PM,Wolves,Crystal Palace,Molineux Stadium,,2020,37,1920
+17/05/2020,03:00:00 PM,Arsenal,Watford,Emirates Stadium,,2020,38,1920
+17/05/2020,03:00:00 PM,Burnley,Brighton,Turf Moor,,2020,38,1920
+17/05/2020,03:00:00 PM,Chelsea,Wolves,Stamford Bridge,,2020,38,1920
+17/05/2020,03:00:00 PM,Crystal Palace,Tottenham,Selhurst Park,,2020,38,1920
+17/05/2020,03:00:00 PM,Everton,Bournemouth,Goodison Park,,2020,38,1920
+17/05/2020,03:00:00 PM,Leicester,Man United,King Power Stadium,,2020,38,1920
+17/05/2020,03:00:00 PM,Man City,Norwich,Etihad Stadium,,2020,38,1920
+17/05/2020,03:00:00 PM,Newcastle,Liverpool,St. James' Park,,2020,38,1920
+17/05/2020,03:00:00 PM,Southampton,Sheffield United,St. Mary's Stadium,,2020,38,1920
+17/05/2020,03:00:00 PM,West Ham,Aston Villa,London Stadium,,2020,38,1920
